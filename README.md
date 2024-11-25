@@ -37,7 +37,7 @@ Testing:
 Pre-requisite: Log in as an Admin and get the JWT token.
 
 Header:
-```json
+```
 Authorization: Bearer <your_jwt_token_here>
 ```
 
@@ -48,7 +48,7 @@ Testing:
 Pre-requisite: Log in as a User and get the JWT token.
 
 Header:
-```json
+```
 Authorization: Bearer <your_jwt_token_here>
 ```
 
@@ -60,6 +60,6 @@ Testing:
 Pre-requisite: Log in as a Moderator and get the JWT token.
 
 Header:
-```json
+```
 Authorization: Bearer <your_jwt_token_here>
 ```
