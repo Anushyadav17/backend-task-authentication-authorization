@@ -53,7 +53,7 @@ Authorization: Bearer <your_jwt_token_here>
 ```
 
 
-4. Moderator Route
+### 4. Moderator Route
 - **Endpoint**: ` GET /Moderator`
 - **Description** This route is only accessible to users with the "Moderator" account type. It returns a welcome message for Moderators.
 Testing:
