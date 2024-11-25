@@ -23,9 +23,24 @@ This is an Express.js-based backend application that implements authentication w
 
 ```json
 {
-  "email": "user@example.com",
+  "email": "user@gmail.com",
   "password": "password",
   "accountType": "User"
+}
+```
+```json
+{
+  "email": "admin@gmail.com",
+  "password": "adminpassword",
+  "accountType": "Admin"
+}
+```
+
+```json
+{
+  "email": "moderator@gmail.com",
+  "password": "moderatorpassword",
+  "accountType": "Moderator"
 }
 ```
 
